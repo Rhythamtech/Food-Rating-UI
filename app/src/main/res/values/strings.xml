@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food App Rating</string>
+    <string name="title">How was your Food?</string>
+    <string name="low_rating"> Ugh! Bad \uD83D\uDE21</string>
+    <string name="medium_rating"> Hmm Satisfied 😇 </string>
+    <string name="high_rating"> Love It 😍 👍 </string>
+</resources>
