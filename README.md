@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Welcome to Food Rating Android App 
 
 This is an amazing foodie rating app working UI. Here, i use Ratingbar component .
 
