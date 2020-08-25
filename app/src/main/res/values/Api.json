@@ -1,0 +1,52 @@
+ 
+ { 
+   "userdata":[
+    { 
+      "fname": "Mukesh",
+      "lname": "Gupta",
+      "age":20,
+      "gender":"M",
+      "course":"MCA"
+    },
+     {
+      "fname": "Aman",
+      "lname":"Gupta",
+      "age":22,
+      "gender":"M",
+      "course":"MCA"
+    },
+     {
+      "fname": "Shalu",
+      "lname":"Gupta",
+      "age":23,
+      "gender":"F",
+      "course":"MCA"
+    },
+     {
+      "fname": "Mukesh",
+      "lname":"Achaya",
+      "age":21,
+      "gender": "M",
+      "course":"BCA"
+    },
+     {
+      "fname": "Mahesh",
+      "lname":"Gupta",
+      "age":21,
+      "gender":"M",
+      "course":"BCA"
+    },
+     {
+      "fname": "Mukesh",
+      "lname":"singh",
+      "age":22,
+      "gender":"M",
+      "course":"BBA"
+    },
+     {
+      "fname": "Sahil",
+      "lname":"Gupta",
+      "age":23,
+      "gender":"M",
+      "course":"MCA"
+    } ]}
